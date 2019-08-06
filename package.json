@@ -1,0 +1,22 @@
+{
+  "name": "onlineclassroom",
+  "version": "1.0.0",
+  "description": "Online Classroom Readme",
+  "main": "application.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RayneDance/OnlineClassroom.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RayneDance/OnlineClassroom/issues"
+  },
+  "homepage": "https://github.com/RayneDance/OnlineClassroom#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
